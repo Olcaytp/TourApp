@@ -1,4 +1,4 @@
-# Tour App
+# Tour App - C# and ASP.NET
 ## I found the ready template, downloaded the file, pulled the html codes from the source file, added the assest parts to the project.
 ## source: https://themewagon.com/theme-category/admin-dashboard/
 ## Then I found an admin panel template for the page layout, I pulled the source code in the same way, downloaded the file and added the assest parts to the project.
